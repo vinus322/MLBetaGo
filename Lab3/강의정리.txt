@@ -1,0 +1,4 @@
+Linear Regression의 cost 최소화 알고리즘의 원리
+
+Hypothesis and Cost 
+H(x) = Wx+b
